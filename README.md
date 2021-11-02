@@ -2,7 +2,7 @@
 
 
 #### 效果图
-![alt 效果图](//i.niupic.com/images/2021/11/02/9FlW.jpg)
+![alt 效果图](https://i.niupic.com/images/2021/11/02/9FlW.jpg)
 
 
 #### 如何使用
@@ -155,7 +155,7 @@ barrage.push([textItem, giftItem])
 
 
 
-#### 完整示例请参考 [example](https://github.com/jeremylu007/pixi-barrage/tree/master/example)
+#### 完整示例请参考 [example](https://github.com/jeremylu007/pixi-barrage/tree/master/example/index.html)
 
 
 ### TODO
